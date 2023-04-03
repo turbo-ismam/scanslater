@@ -1,0 +1,2 @@
+# scanslater
+Manga scan translater
